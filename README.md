@@ -1,7 +1,7 @@
 # Calculator-AVR
 Calculator using AVR-Atmega32, 16x2 LCD, and 4x4 KEYPAD
 
-This software allows the user to enter up tp 4 digit operands (integers only, no floating point numbers), and can apply for different operations:
+This software allows the user to enter up to 4 digit operands (integers only, no floating point numbers), and can apply 4 different operations:
 
 1. Addition
 2. Subtraction
